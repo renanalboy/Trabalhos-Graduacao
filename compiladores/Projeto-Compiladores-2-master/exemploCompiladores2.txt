@@ -1,0 +1,20 @@
+main(){
+	int i;
+	i = 1;
+	printf("Hello word");
+	if ( i == 2){
+		printf("Hello word");
+		if(j == 5){
+			i = i + 3;
+		}
+	} 
+	for( i = 0; i < 10; i = i + 1){
+		printf("Hello word");
+	}
+	while(i == 1){
+		printf("Hello word");
+	}
+	do{
+		printf("Hello word");
+	}while(i>=1);
+}
