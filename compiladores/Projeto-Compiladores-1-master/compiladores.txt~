@@ -1,9 +1,0 @@
-int main(){
-	int var;
-	string _var2
-	
-	//teste comentário
-	for(i=0; i<var; i++){
-		printf("Isso e um teste");
-	}
-}
