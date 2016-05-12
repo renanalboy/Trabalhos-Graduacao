@@ -1,0 +1,95 @@
+/*CSS do projeto*/
+
+/*Configuração menu*/
+#menu ul{
+	padding:0px;
+	margin:0px;
+	background-color:#FFFFFF;
+	list-style:none;
+	font-size:20px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#menu ul li{
+	display:inline;
+	/*margin-left:20px;*/
+	text-decoration:none;
+	padding:10px;
+}
+
+/*remove sublinhado das tags <a></a>*/
+a{
+	text-decoration:none;
+}
+
+.linha{
+	height:2px; 
+	border:none; 
+	color:#000; 
+	background-color:#000; 
+	margin-top: 0px; 
+	margin-bottom: 0px;
+	margin-top:10px;
+}
+
+/*Configuração body*/
+#body{
+	background-color:#ACCDFA;
+}
+
+/*Configuração div principal*/
+.conteudo{
+	background-color:#FFFFFF;
+	margin-left:100px;
+	margin-right:100px;
+	margin-top:50px;
+	margin-bottom: 50px;
+}
+
+.conteudo3{
+	background-color:#E8E8E8;
+}
+
+.conteudo4{
+	padding:30px;
+}
+
+/*Configuração div secundária*/
+.conteudo2{
+	margin-left:30px;
+}
+
+/*Configuração logo*/
+.logo{
+	height:10%;
+	width:10%;
+}
+
+/*configuração img header*/
+.imgHeader{
+	/*height:20%;*/
+	width:350px;
+	/*position:relative;*/
+	margin-left:auto;
+	margin-right:auto;
+}
+
+/*Configura tamanho da imagem*/
+.imagem{
+	width:200px;
+	margin-left:auto;
+	margin-right:auto;
+}
+/*configuração texto dos posts*/
+.p1{
+	padding:30px;
+}
+
+.trocafundo{
+	background-color:#DCDCDC;
+}
+
+
+
+
